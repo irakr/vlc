@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "vlc.h": "c",
+        "libvlc.h": "c"
+    }
+}
